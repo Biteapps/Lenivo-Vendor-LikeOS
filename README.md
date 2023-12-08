@@ -8,6 +8,14 @@ DO NOT TRY TO INSTALL ON EYSER OR ASRCK COMPUTERS !!!
 
 Support any level
 
+Install Guide:
+
+1.Install LikeOS
+
+2.Update to Dev using toDev.lua(launch from system)
+
+3.put lenivo.lua into /vendor(rename lenivo.lua to logo.lua)
+
 # RUS
 
 Официальный вендор Lenivo для LikeOS 
